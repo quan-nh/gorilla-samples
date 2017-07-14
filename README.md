@@ -1,14 +1,10 @@
 # gorilla-samples
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
++ [Telegram History](http://viewer.gorilla-repl.org/view.html?source=github&user=tentamen&repo=gorilla-samples&path=ws/telegram.clj)
 
 ## License
 
-Copyright © 2017 FIXME
+Copyright © 2017 Quan
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
