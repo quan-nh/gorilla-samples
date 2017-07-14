@@ -3,7 +3,7 @@
 ;; **
 ;;; # Gorilla REPL
 ;;; 
-;;; + Data is dump from Telegram, using [telegram-history-dump](https://github.com/tvdstaaij/telegram-history-dump) utility (for confidential reasons, this data is not available on repo).
+;;; + Data is dump from Telegram, using [telegram-history-dump](https://github.com/tvdstaaij/telegram-history-dump) utility (for confidential reasons, these data are not available on repo).
 ;;; + Data is process by Clojure & visualize using [ggjoy](https://github.com/clauswilke/ggjoy) R library.
 ;; **
 
