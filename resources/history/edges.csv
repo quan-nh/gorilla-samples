@@ -1,4 +1,9 @@
-from,to,label
-Nguyễn Huệ,Nguyễn Nhạc,anh-em
-Nguyễn Huệ,Nguyễn Lữ,anh-em
-Nguyễn Huệ,Nguyễn Ánh,ke-thu
+from,to,label,arrows
+Nguyễn Nhạc,Quang Trung,anh em
+Quang Trung,Nguyễn Lữ,anh em
+Quang Trung,Gia Long,kẻ thù,"from, to"
+Gia Long,Thừa Thiên,hoàng hậu
+Thừa Thiên,Hoàng tử Cảnh,mẹ con
+Gia Long,Thuận Thiên,hoàng hậu
+Thuận Thiên,Minh Mạng,mẹ con
+Thuận Thiên,Nguyễn Phúc Đài,mẹ con
