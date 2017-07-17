@@ -1,9 +1,34 @@
 from,to,label,arrows
 Nguyễn Nhạc,Quang Trung,anh em
 Quang Trung,Nguyễn Lữ,anh em
+Quang Trung,Trần Quang Diệu,boss
+Quang Trung,Bùi Thị Xuân,boss
+Trần Quang Diệu,Bùi Thị Xuân,vợ chồng
+Gia Long,Trần Quang Diệu,kill
+Gia Long,Bùi Thị Xuân,kill
+Quang Trung,Ngô Thì Nhậm,boss
+Ngô Thì Sĩ,Ngô Thì Nhậm,cha con
+Quang Trung,Phan Huy Ích,boss
+Ngô Thì Sĩ,Phan Huy Ích,bố vợ
+Quang Trung,Ngô Văn Sở,boss
+Quang Trung,Vũ Văn Dũng,boss
+Vũ Văn Dũng,Ngô Văn Sở,kill
+Gia Long,Vũ Văn Dũng,kill
+Quang Trung,Trần Văn Kỷ,boss
+Gia Long,Trần Văn Kỷ,kill
+Vũ Văn Nhậm,Nguyễn Hữu Chỉnh,kill
+Quang Trung,Vũ Văn Nhậm,kill
+Nguyễn Nhạc,Vũ Văn Nhậm,bố vợ
+Bùi Đắc Tuyên,Bùi Thị Nhạn,anh em
+Quang Trung,Bùi Thị Nhạn,hoàng hậu
+Bùi Thị Nhạn,Quang Toản,mẹ con
+Gia Long,Quang Toản,kill
+Vũ Văn Dũng,Bùi Đắc Tuyên,kill
 Quang Trung,Gia Long,kẻ thù,"from, to"
 Gia Long,Thừa Thiên,hoàng hậu
 Thừa Thiên,Hoàng tử Cảnh,mẹ con
 Gia Long,Thuận Thiên,hoàng hậu
 Thuận Thiên,Minh Mạng,mẹ con
 Thuận Thiên,Nguyễn Phúc Đài,mẹ con
+Gia Long,Đặng Trần Thường,boss
+Đặng Trần Thường,Ngô Thì Nhậm,kill
