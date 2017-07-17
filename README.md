@@ -1,6 +1,7 @@
 # gorilla-samples
 
-+ [Telegram History](https://tentamen.github.io/gorilla-repl-viewer/view.html?source=github&user=tentamen&repo=gorilla-samples&path=ws/telegram.clj)
++ [History](https://tentamen.github.io/gorilla-repl-viewer/view.html?source=github&user=tentamen&repo=gorilla-samples&path=ws/history.clj)
++ [Telegram](https://tentamen.github.io/gorilla-repl-viewer/view.html?source=github&user=tentamen&repo=gorilla-samples&path=ws/telegram.clj)
 
 ## License
 
