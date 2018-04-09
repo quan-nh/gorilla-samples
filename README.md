@@ -1,8 +1,6 @@
 # gorilla-samples
 
 + [Health](http://viewer.gorilla-repl.org/view.html?source=github&user=tentamen&repo=gorilla-samples&path=ws/health.clj)
-+ [History](http://viewer.gorilla-repl.org/view.html?source=github&user=tentamen&repo=gorilla-samples&path=ws/history.clj)
-+ [Telegram](http://viewer.gorilla-repl.org/view.html?source=github&user=tentamen&repo=gorilla-samples&path=ws/telegram.clj)
 + [Vietnam IMO](http://viewer.gorilla-repl.org/view.html?source=github&user=tentamen&repo=gorilla-samples&path=ws/imo.clj)
 
 ## License
